@@ -33,6 +33,12 @@ Or, in a 'simple' command, `pip install numpy pandas scipy matplotlib seaborn ju
 ***Note:*** If running Windows, you may want to open the shell with administrator privileges to install the libraries for all users.
 Also don't forget to add the Python folder to the PATH if not present already.
 
+## Sources
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+- [Python Pandas for your grandma](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)
+
 ## Authors
 
 - Eduardo Correia (@educorreia932)
