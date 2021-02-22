@@ -4,15 +4,20 @@ Workshop focused on Python's data science tools such as NumPy, Matplotlib, SymPy
 
 # Content
 
-1. [NumPy]()
-2. [Matplotlib]()
-3. [SymPy]()
-4. [Pandas]()
+1. [IPython](IPython.html)
+2. [NumPy](NumPy.html)
+3. Matplotlib
+    1. [Matplotlib](Matplotlib.html)
+    2. [Simple Plots](Simple%20Plots.html)
+    3. [Other Plots](Other%20Plots.html)
+    4. [Sub Plots]()
+4. [SymPy](SymPy.html)
+5. [Pandas]()
 
 # Exercises and Solutions
 
-1. [Exercises]()
-2. [Challenges]()
+1. [Exercises](Exercises.html)
+2. [Challenges](Challenges.html)
 
 # Required Resources
 
